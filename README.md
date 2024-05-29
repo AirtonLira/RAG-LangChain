@@ -17,3 +17,5 @@
 🔗 Cadeias de Processamento: Utilização de chains para juntar diferentes componentes.
 
 📝 Exemplo Prático: Demonstrou como obter informações atualizadas sobre o filme "Oppenheimer" utilizando RAG.
+
+###### - Artigo sobre: https://airtonlirajr.medium.com/langchain-rag-retrieval-augmented-generation-1b7038ccd5ea
